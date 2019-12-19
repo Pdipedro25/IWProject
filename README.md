@@ -5,4 +5,4 @@ Topic: Simple Image classifier that can discriminate right photos from corrupted
 
 See Slides in repo for further details.
 
-<img src="./CATTURA.png">
+<img src="CATTURA.png">
